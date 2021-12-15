@@ -2,7 +2,7 @@
 - 👀 I’m interested in service design, Linux, coffee & other stuff like gearboxes and cats. 
 - 🌱 I’m currently learning bash, systemd, html, javascript, php, mongodb and other stuff like gearboxes and cats.
 - 💞️ I’m looking to collaborate on Linux, coffee, & other stuff like gearboxes and cats.
-- 📫 How to reach me.. Well, you could ask the cat. 
+- 📫 How to reach me.. Well, you can get in the right gear and ask the cat. 
 
 <!---
 williamcramer/williamcramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
